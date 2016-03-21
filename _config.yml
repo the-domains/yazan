@@ -1,0 +1,28 @@
+name: Yazan
+favicon: null
+layout_spectrum: 0.4786436357535422
+typography_spectrum: 0.06620208360254765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.584759421646595
+  lightness: 0.012293435400351882
+  saturation: 0.6292336462065578
+  rhythmicContrast: 0.9604954335372895
+purpose: []
