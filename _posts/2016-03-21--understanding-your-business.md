@@ -6,19 +6,19 @@ isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd26856c
 inLanguage: null
 starred: false
 keywords: []
-description: "- understanding your business, \_"
-datePublished: '2016-03-21T15:46:06.513Z'
-dateModified: '2016-03-21T15:45:03.367Z'
+description: "Dr Yazan El Safadi Helps you develop your business by:\_"
+datePublished: '2016-03-21T16:15:12.505Z'
+dateModified: '2016-03-21T15:46:10.395Z'
 author: []
 title: ''
+sourcePath: _posts/2016-03-21--understanding-your-business.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21--understanding-your-business.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
